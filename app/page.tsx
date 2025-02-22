@@ -10,9 +10,7 @@ export default function Home () {
 <li> <Link href="/Sign-up">Sign-up</Link></li>
 
 </ul>
-</div>
-
-  
+</div>  
 
 );
 };
